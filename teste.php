@@ -16,6 +16,8 @@
     echo"X=$x";
     echo" <br> Y=$y";
     echo"<br> x+y=".$x + $y;
+    print(" <br> teste");
+    print"<br> Utilizei o comando print. "
     ?>
 
 </body>
